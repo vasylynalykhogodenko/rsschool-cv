@@ -37,13 +37,14 @@ function solution(number) {
 
 ## EXPERIENCE
 
-[MyGitHub](https://github.com/vasylynalykhogodenko)  
+[MyGitHub](https://github.com/vasylynalykhogodenko)
 [Codewars](https://www.codewars.com/users/rsschool_eb343b2c92494ef9/completed_solutions)
 [CV](https://vasylynalykhogodenko.github.io/rsschool-cv/cv)
 
 ## EDUCATION
 
-*  Course in JavaScript/Front-End, The Rolling Scopes School 2024 Q4
+*  Course in React Practical, SoftServe
+*  Course in JavaScript/FrontEnd, The Rolling Scopes School 2024 Q4
 *  Course in Web Development JavaSCript, HTML5, CSS3, Udemy
 *  Diploma in Philology, Lviv Polytechnik National University, UKRAINE
 
